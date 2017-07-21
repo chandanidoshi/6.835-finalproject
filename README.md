@@ -30,5 +30,5 @@ To watch an example of our game, click <a href="https://youtu.be/k_YGa5DRQp0"> h
 
 ## Collaborators
 Chandani Doshi
-Yini Qi
-Tania Yu
+<br>Yini Qi
+<br>Tania Yu
