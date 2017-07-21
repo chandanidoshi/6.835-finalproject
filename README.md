@@ -24,3 +24,6 @@ Same as Debug Mode, but build as Release for Any CPU.
 
 ## Run Instructions
 To run the pre-built executable, execute ```bin/Release/HarryPotter.exe```.
+
+## Watch Video
+To watch an example of our game, click <a href="https://youtu.be/k_YGa5DRQp0"> here </a>.
